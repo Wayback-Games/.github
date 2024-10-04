@@ -1,5 +1,6 @@
-## Hi there, we are Wayback Games!
-We are a small game studio on Roblox, but we also code discord bots and more things!
+# Wayback Games
+## Who is "Wayback Games"
+> Wayback Games is a studio that works on games on [Roblox](https://www.roblox.com/groups/15408568/Wayback-Games#!/about). We also make bots on [Discord](https://discord.gg/YeYrb2mRwF) for other creators and studios, so come check us out!
 
 <!--
 
